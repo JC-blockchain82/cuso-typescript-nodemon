@@ -1,0 +1,12 @@
+{
+  "name": "cuso-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "nodemon": "tsc && npx nodemon"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^10.9.2"
+  }
+}
